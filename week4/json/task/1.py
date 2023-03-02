@@ -1,10 +1,7 @@
 import json
-"""
-with open("C:\KBTU\\2nd semester\pp2\TSIS4\json\sample-data.json") as f:
-    data = json.loads(f.read())
 
-"""
-with open("C:\Users\77082\Desktop\python, tsis\week4\json\task\sample-data.json") as f:
+
+with open("C:\Users\\77082\Desktop\python, tsis\week4\json\\task\sample-data.json") as f:
     data= json.loads(f.read())
 
 print("Interface Status")
