@@ -14,7 +14,7 @@ pygame.init()
 
 height, width = 500, 500
 screen = pygame.display.set_mode((width, height))
-# pygame.display.set_icon(pygame.image.load("C:\python2\week8\paint_elements\paint_icon.png"))
+
 pygame.display.set_caption("Paint")
 clock = pygame.time.Clock()
 fps = 60
